@@ -1,7 +1,0 @@
-{
-  "cleanUrls": true,
-  "functions": {
-    "api/upload.js": { "maxDuration": 60 }
-  }
-}
-
