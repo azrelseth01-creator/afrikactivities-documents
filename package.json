@@ -1,9 +1,0 @@
-{
-  "name": "unfinished-acts",
-  "private": true,
-  "dependencies": {
-    "@vercel/analytics": "^2.0.1",
-    "@vercel/blob": "^2.6.1",
-    "@vercel/speed-insights": "^2.0.0"
-  }
-}
